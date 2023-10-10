@@ -1,7 +1,7 @@
 p {
-    font-size: 13px;
-    margin-right: 1in;
-    margin-left: 1in;
+    font-size: 16px;
+    margin-right: 1.5in;
+    margin-left: 1.5in;
 }
 h1 {
     text-align: center;
@@ -10,8 +10,9 @@ h1 {
 h2 {
     font-size: 14px;
     color: green;
-    text-align: right;
 }
 .authors {
     font-size: 14px;
+    text-align: right;
+    margin
 }
