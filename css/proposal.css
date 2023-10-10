@@ -5,12 +5,13 @@ p {
 }
 h1 {
     text-align: center;
-
 }
 h2 {
     font-size: 14px;
-    color: green;
+    color: purple;
+    margin-left:1.5in;
 }
+
 .authors {
     font-size: 14px;
     text-align: right;
