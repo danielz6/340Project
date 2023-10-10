@@ -15,5 +15,8 @@ h2 {
 .authors {
     font-size: 18px;
     text-align: right;
-    margin
+}
+
+ul{
+    margin-left: 1.5in;
 }
